@@ -3,9 +3,9 @@
 🌟 Creating Real Business Value Through Data Analysis and Machine Learning
 
 ### 🔭 I’m at ..
-- **Undergraduate Intern** at Handong Artificial Intelligence Lab (HAIL) @ HGU
-- **Undergraduate Student** at HGU (Handong Global University)
-- **Majoring in Computer Science & Economics** (Dept. of Computer Science and Electrical Engineering)
+- **Undergraduate Intern** at Handong Artificial Intelligence Lab (HAIL) @ HGU (2023.7 ~ 2024.7)
+- **Undergraduate Student** at HGU (Handong Global University) (2021.3 ~ 2025.2)
+- **Majoring in Computer Science & Economics** (Dept. of Computer Science and Electrical Engineering) (2021.3 ~ 2025.2)
 
 ### 🌱 I’m interested in ...
 - Time Series Analysis
