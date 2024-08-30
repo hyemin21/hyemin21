@@ -18,7 +18,8 @@
 
 ### 🔬 Research History
 - **Research Student** at Handong Artificial Intelligence Lab (HAIL), Dept. of CSEE, HGU (2023.7 ~ 2024.7)
-- **Best Student Paper Award**. KSC (Korean Software Congress). December 2023.
+- **Best Student Paper Award**. KSC (Korean Software Congress). December 2023. 
+  - [View the paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705610)
 - **Capstone Project Award**. HGU (Handong Global University). May 2024.
 
 ### 📫 How to reach me
