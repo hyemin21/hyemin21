@@ -1,16 +1,29 @@
-## Hi I'm Hyemin 👋
+## Hi there 👋
 
-<!--
-**hyemin21/hyemin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m at ..
+- **Undergraduate Intern** at Handong Artificial Intelligence Lab (HAIL) @ HGU
+- **Undergraduate Student** at HGU (Handong Global University)
+- **Majoring in Computer Science & Economics** (Dept. of Computer Science and Electrical Engineering)
 
-Here are some ideas to get you started:
+### 🌱 I’m interested in ...
+- Time Series Analysis
+- Explainable AI, XAI
+- Financial Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Future Goals
+- Exploring applications of AI in finance
+- Contributing to open-source AI projects
+- Pursuing graduate studies in AI or Data Science
+
+### 💻 Technical Skills
+- **Programming Languages**: Python, SQL, Java 
+- **Frameworks & Tools**: TensorFlow, Scikit-Learn, Pandas, Git
+
+### 🔬 Research History
+- **Research Student** at Handong Artificial Intelligence Lab (HAIL), Dept. of CSEE, HGU (2023.7 ~ 2024.7)
+- **Best Student Paper Award**. KSC (Korean Software Congress). December 2023.
+- **Capstone Project Award**. HGU (Handong Global University). May 2024.
+
+### 📫 How to reach me
+- Email: 22100419@handong.ac.kr
+- LinkedIn: 
