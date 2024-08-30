@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌟 Creating Real Business Value Through Data Analysis and Machine Learning
+
 ### 🔭 I’m at ..
 - **Undergraduate Intern** at Handong Artificial Intelligence Lab (HAIL) @ HGU
 - **Undergraduate Student** at HGU (Handong Global University)
