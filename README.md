@@ -10,11 +10,6 @@
 - Explainable AI, XAI
 - Financial Data Analytics
 
-### 🌱 Future Goals
-- Exploring applications of AI in finance
-- Contributing to open-source AI projects
-- Pursuing graduate studies in AI or Data Science
-
 ### 💻 Technical Skills
 - **Programming Languages**: Python, SQL, Java 
 - **Frameworks & Tools**: TensorFlow, Scikit-Learn, Pandas, Git
