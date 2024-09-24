@@ -24,4 +24,3 @@
 
 ### 📫 How to reach me
 - Email: 22100419@handong.ac.kr
-- LinkedIn: 
